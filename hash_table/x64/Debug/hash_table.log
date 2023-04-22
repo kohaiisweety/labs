@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\79822\OneDrive\Документы\hash_table\hash_table\Source.cpp(259,59): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\79822\OneDrive\Документы\hash_table\hash_table\Source.cpp(260,20): warning C4305: *=: усечение из "double" в "float"
+C:\Users\79822\OneDrive\Документы\hash_table\hash_table\Source.cpp(358,38): warning C4101: count: неиспользованная локальная переменная
+C:\Users\79822\OneDrive\Документы\hash_table\hash_table\Source.cpp(478,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  hash_table.vcxproj -> C:\Users\79822\OneDrive\Документы\hash_table\x64\Debug\hash_table.exe
