@@ -1,0 +1,5 @@
+﻿  List.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\79822\OneDrive\Документы\lab9\lab9\List.cpp(170): warning C4715: List::operator+: значение возвращается не при всех путях выполнения
+  lab9.vcxproj -> C:\Users\79822\OneDrive\Документы\lab9\x64\Debug\lab9.exe
