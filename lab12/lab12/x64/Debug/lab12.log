@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\79822\OneDrive\Документы\lab12\lab12\number2.h(9,32): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\79822\OneDrive\Документы\lab12\lab12\List.h(7): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79822\OneDrive\Документы\lab12\lab12\List.h(7,1): message : во время компиляции функции-члена класс шаблон "List<Pair>::List(void)"
+C:\Users\79822\OneDrive\Документы\lab12\lab12\number3.h(7,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "List<Pair>::List(void)"
+C:\Users\79822\OneDrive\Документы\lab12\lab12\number3.h(7,13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+C:\Users\79822\OneDrive\Документы\lab12\lab12\List.h(42,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\79822\OneDrive\Документы\lab12\lab12\List.h(38,1): message : во время компиляции функции-члена класс шаблон "void List<Pair>::plus_mid(void)"
+C:\Users\79822\OneDrive\Документы\lab12\lab12\number3.h(15,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::plus_mid(void)"
+C:\Users\79822\OneDrive\Документы\lab12\lab12\List.h(55,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79822\OneDrive\Документы\lab12\lab12\List.h(48,1): message : во время компиляции функции-члена класс шаблон "void List<Pair>::searchAndDel(void)"
+C:\Users\79822\OneDrive\Документы\lab12\lab12\number3.h(19,19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::searchAndDel(void)"
+  Pair.cpp
+  Создание кода...
+  lab12.vcxproj -> C:\Users\79822\OneDrive\Документы\lab12\x64\Debug\lab12.exe
